@@ -1,0 +1,8 @@
+title: Your Plex Hub
+email: yourplexhub@gmail.com
+baseurl: ""
+url: "http://yourplexhub.github.io"
+twitter_username: jekyllrb
+github_username:  jekyll
+markdown: kramdown
+theme: minima
